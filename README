@@ -1,0 +1,7 @@
+Arduino Spendendosen Sketch
+---------------------------
+
+Derzeitiger Stand: Schätzspiel.
+Ziel ist es nach dem Countdown (3, 2, 1, jetzt) genau drei Sekunden abzuschätzen und dann Geld einzuwerfen.
+
+Lichtschranke funktioniert leider nicht zuverlässig. Ideen für kreative, mechanische Münzeinwurfsensoren sind willkommen.
